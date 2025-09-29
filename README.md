@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Sniggy
 
 🌟 Welcome to my GitHub profile!  
-I’m passionate about **backend development**, and right now I'm working mainly with **Go**.  
-Currently, I’m looking for opportunities to **learn, grow, and strengthen my skills** in building efficient, scalable backend systems.
+
+I’m passionate about **Backend Development**, and I’m diving into the world of **Cyber Security** — with a keen interest in **offensive/attacking techniques**.  
+Currently, I’m focused on opportunities to **learn, experiment, and sharpen my skills** in building scalable backend systems while exploring the exciting challenges of security testing and ethical hacking.
 
 ---
 
