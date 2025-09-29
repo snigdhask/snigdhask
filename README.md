@@ -14,9 +14,9 @@ Currently, I’m looking for opportunities to **learn, grow, and strengthen my s
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sniggy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sniggy&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sniggy&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snigdhask&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhask&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=snigdhask&theme=radical)
 
 ---
 
