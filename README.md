@@ -22,6 +22,7 @@ Currently, I’m looking for opportunities to **learn, grow, and strengthen my s
 
 ## 🛠️ Tech Stack
 Backend Development
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
