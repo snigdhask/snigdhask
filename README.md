@@ -2,7 +2,7 @@
 
 🌟 Welcome to my GitHub profile!  
 
-I’m passionate about **Backend Development**, and I’m diving into the world of **Cyber Security** — with a keen interest in **offensive/attacking techniques**.  
+I am a Computer Science and Engineering undergraduate from BMS College of Engineering, Bengaluru, India (Batch of 2025). I'm passionate about **Backend Development**, and I’m diving into the world of **Cyber Security** — with a keen interest in **offensive/attacking techniques**.  
 Currently, I’m focused on opportunities to **learn, experiment, and sharpen my skills** in building scalable backend systems while exploring the exciting challenges of security testing and ethical hacking.
 
 ---
