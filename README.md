@@ -1,64 +1,44 @@
-# Hi there 👋, I'm Sniggy
+# Hi there 👋, I'm Sniggy  
 
-🌟 Welcome to my GitHub profile!  
-
-I am a Computer Science and Engineering graduate from BMS College of Engineering, Bengaluru, India (Batch of 2025). I'm passionate about **Backend Development**, and I’m diving into the world of **Cyber Security** — with a keen interest in **offensive/attacking techniques**.  
-Currently, I’m focused on opportunities to **learn, experiment, and sharpen my skills** in building scalable backend systems while exploring the exciting challenges of security testing and ethical hacking.
+🎓 **Computer Science & Engineering** graduate from **BMS College of Engineering**, Bengaluru (Batch of 2025).  
+💻 Passionate about **Backend Development** and exploring the depths of **Offensive Security & Ethical Hacking**.  
+🚀 Currently honing skills in building robust, scalable backend systems while experimenting with real-world security challenges.
 
 ---
 
 ## 🔥 About Me
-- 🌱 Currently learning **Go**
-- 📫 How to reach me: snigdhakashyap215@gmail.com | www.linkedin.com/in/snigdhakashyap31
-- ⚡ Fun fact: I’ve made honeypots more attractive than some real websites 😉
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snigdhask&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhask&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=snigdhask&theme=radical)
+- 🌱 Learning **Go** and diving deeper into **system exploitation**
+- ⚡ Fun fact: I’ve designed honeypots more convincing than real web apps 😉  
+- 📫 Reach me at: [snigdhakashyap215@gmail.com](mailto:snigdhakashyap215@gmail.com) | [LinkedIn](https://www.linkedin.com/in/snigdhakashyap31)
 
 ---
 
 ## 🛠️ Tech Stack
-Backend Development
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Backend Development
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Cyber Security
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+### 🔐 Cyber Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-046097?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
 
 ---
 
+## 📊 GitHub Insights
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhask&layout=compact&theme=tokyonight&hide_border=true)
+
+![Contributions](https://komarev.com/ghpvc/?username=snigdhask&label=Total%20Contributions&color=FF69B4&style=for-the-badge)
+
+---
+
 ⭐️ From [Sniggy](https://github.com/sniggy)
-
-
-<!--
-**snigdhask/snigdhask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
