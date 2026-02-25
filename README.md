@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 About Me
+## About Me
 - 🌱 Learning **Go** and diving deeper into **system exploitation**
-- ⚡ Fun fact: I’ve designed honeypots more convincing than real web apps 😉  
+- ⚡ Fun fact: I’ve designed honeypots more convincing than real web apps 
 - 📫 Reach me at: [snigdhakashyap215@gmail.com](mailto:snigdhakashyap215@gmail.com) | [LinkedIn](https://www.linkedin.com/in/snigdhakashyap31)
